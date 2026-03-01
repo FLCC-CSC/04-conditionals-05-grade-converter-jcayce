@@ -1,8 +1,8 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: John Cayce 
+# DATE: 3-1-26
+# BRIEF DESCRIPTION: grade converter  
 
 
 
@@ -86,7 +86,7 @@ D
    doing this lab?
 
 
-
+Be very careful about the order of your if and elif statements
 
 
 
